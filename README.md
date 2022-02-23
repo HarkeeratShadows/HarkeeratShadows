@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HarkeeratShadows
+- 👀 I’m interested in Computer Science and coding
+- 🌱 I’m currently learning java and HTML
